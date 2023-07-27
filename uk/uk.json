@@ -4,7 +4,7 @@
   "nolocationroad": "There aren't any locations in this road.",
   "unnamedroad": "Unnamed Road",
   "locationalreadyregistered": "This location is already registered.",
-  "registerlocation": "Registered a location at x: %s, z: %s.",
+  "registerlocation": "Registered a location at X: %s, Z: %s.",
   "currentlyon": "Currently on: %s.",
   "blocksprediction": "%s\nThis will take %s blocks",
   "thengoto": "%s then go to\n",
@@ -13,7 +13,7 @@
   "tomanyarguments": "You have run the command with too many arguments. Please run it again with the %s arguments.",
   "invalidcoordinates": "Invalid coordinates. Please run it again with the right coordinates.",
   "finallygoto": "Then finally go to X: %s Z: %s.",
-  "registerroadarguments": "(optional) name of road> <coordinates of the locations as x y z with a space between arguments",
+  "registerroadarguments": "(optional) name of road> <coordinates of the locations as X Y Z with a space between arguments",
   "registeredroad": "Registered a new road.",
   "loadconfigfailed": "Could not load config.",
   "notonaroad": "You are currently not on any street."
