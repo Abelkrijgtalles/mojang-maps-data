@@ -1,6 +1,4 @@
 {
-  "createconfigfailed": "Kon niet de configuratie %s maken.",
-  "saveconfigfailed": "Kon niet de configuratie %s opslaan.",
   "nolocationroad": "Er zijn geen locaties in deze weg.",
   "unnamedroad": "Naamloze Weg",
   "locationalreadyregistered": "De locatie is al geregistreerd.",
@@ -10,11 +8,10 @@
   "thengoto": "%s ga dan naar\n",
   "noarguments": "Je hebt niet de goede argumenten gegeven. Run het alsjeblieft opnieuw met %s argumenten.",
   "example": "Voorbeeld:",
-  "tomanyarguments": "You have run the command with too many arguments. Please run it again with the %s arguments.",
+  "toomanyarguments": "Je hebt te veel argumenten gegeven. Run alsjeblieft de command opnieuw met %s argumenten.",
   "invalidcoordinates": "Geen goede coördinaten. Run het opnieuw met goede coördinaten.",
   "finallygoto": "Ga uiteindelijk naar X: %s Z: %s.",
   "registerroadarguments": "(optioneel) naam van de weg> <coördinaten van de locatie als X Y Z met een spatie tussen argumenten",
   "registeredroad": "Een nieuwe weg geregistreerd.",
-  "loadconfigfailed": "Kon de config niet laden.",
   "notonaroad": "Je bent momenteel niet op een straat."
 }
