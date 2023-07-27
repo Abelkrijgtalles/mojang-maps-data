@@ -1,4 +1,6 @@
 {
+  "createconfigfailed": "Kon niet de configuratie %s maken.",
+  "saveconfigfailed": "Kon niet de configuratie %s opslaan.",
   "nolocationroad": "Er zijn geen locaties in deze weg.",
   "unnamedroad": "Naamloze Weg",
   "locationalreadyregistered": "De locatie is al geregistreerd.",
@@ -13,5 +15,6 @@
   "finallygoto": "Ga uiteindelijk naar X: %s Z: %s.",
   "registerroadarguments": "(optioneel) naam van de weg> <coördinaten van de locatie als X Y Z met een spatie tussen argumenten",
   "registeredroad": "Een nieuwe weg geregistreerd.",
+  "loadconfigfailed": "Kon de config niet laden.",
   "notonaroad": "Je bent momenteel niet op een straat."
 }
