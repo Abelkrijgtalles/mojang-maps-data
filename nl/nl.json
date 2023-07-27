@@ -4,7 +4,7 @@
   "nolocationroad": "Er zijn geen locaties in deze weg.",
   "unnamedroad": "Naamloze Weg",
   "locationalreadyregistered": "De locatie is al geregistreerd.",
-  "registerlocation": "Registered a location at X: %s, Z: %s.",
+  "registerlocation": "Een locatie op X: %s, Z: %s geregistreerd.",
   "currentlyon": "Momenteel op: %s.",
   "blocksprediction": "%s\nDit is %s blocks",
   "thengoto": "%s ga dan naar\n",
@@ -13,7 +13,7 @@
   "tomanyarguments": "Je hebt te veel argumenten gegeven. Run het alsjeblieft opnieuw met %s argumenten.",
   "invalidcoordinates": "Geen goede coördinaten. Run het opnieuw met goede coördinaten.",
   "finallygoto": "Ga uiteindelijk naar X: %s Z: %s.",
-  "registerroadarguments": "(optional) name of road> <coordinates of the locations as X Y Z with a space between arguments",
+  "registerroadarguments": "(optioneel) naam van de weg> <coördinaten van de locatie als X Y Z met een spatie tussen argumenten",
   "registeredroad": "Een nieuwe weg geregistreerd.",
   "loadconfigfailed": "Kon de config niet laden.",
   "notonaroad": "Je bent momenteel niet op een straat."
