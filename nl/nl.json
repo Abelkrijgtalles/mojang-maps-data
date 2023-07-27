@@ -13,6 +13,5 @@
   "finallygoto": "Ga uiteindelijk naar X: %s Z: %s.",
   "registerroadarguments": "(optioneel) naam van de weg> <coördinaten van de locatie als X Y Z met een spatie tussen argumenten",
   "registeredroad": "Een nieuwe weg geregistreerd.",
-  "notonaroad": "Je bent momenteel niet op een straat.",
-  "noargumentsother": "Je hebt geen argumenten gegeven. Run het alsjeblieft opnieuw met de goede argumenten."
+  "notonaroad": "Je bent momenteel niet op een straat."
 }
