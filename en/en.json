@@ -13,6 +13,5 @@
   "finallygoto": "Then finally go to X: %s Z: %s.",
   "registerroadarguments": "(optional) name of road> <coordinates of the locations as X Y Z with a space between arguments",
   "registeredroad": "Registered a new road.",
-  "notonaroad": "You are currently not on any street.",
-  "noargumentsother": "You did not run the command with arguments. Please run it again with the right arguments."
+  "notonaroad": "You are currently not on any street."
 }
