@@ -6,12 +6,13 @@
   "currentlyon": "Momenteel op: %s.",
   "blocksprediction": "%s\nDit is %s blocks",
   "thengoto": "%s ga dan naar\n",
-  "noarguments": "Je hebt niet de goede argumenten gegeven. Run het alsjeblieft opnieuw met %s argumenten.",
+  "noarguments": "Je hebt geen argumenten gegeven. Run het alsjeblieft opnieuw met %s argumenten.",
   "example": "Voorbeeld:",
   "toomanyarguments": "Je hebt te veel argumenten gegeven. Run alsjeblieft de command opnieuw met %s argumenten.",
   "invalidcoordinates": "Geen goede coördinaten. Run het opnieuw met goede coördinaten.",
   "finallygoto": "Ga uiteindelijk naar X: %s Z: %s.",
   "registerroadarguments": "(optioneel) naam van de weg> <coördinaten van de locatie als X Y Z met een spatie tussen argumenten",
   "registeredroad": "Een nieuwe weg geregistreerd.",
-  "notonaroad": "Je bent momenteel niet op een straat."
+  "notonaroad": "Je bent momenteel niet op een straat.",
+  "noargumentsother": "Je hebt geen argumenten gegeven. Run het alsjeblieft opnieuw met de goede argumenten."
 }
