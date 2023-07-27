@@ -10,7 +10,7 @@
   "thengoto": "%s ga dan naar\n",
   "noarguments": "Je hebt niet de goede argumenten gegeven. Run het alsjeblieft opnieuw met %s argumenten.",
   "example": "Voorbeeld:",
-  "tomanyarguments": "Je hebt te veel argumenten gegeven. Run het alsjeblieft opnieuw met %s argumenten.",
+  "tomanyarguments": "You have run the command with too many arguments. Please run it again with the %s arguments.",
   "invalidcoordinates": "Geen goede coördinaten. Run het opnieuw met goede coördinaten.",
   "finallygoto": "Ga uiteindelijk naar X: %s Z: %s.",
   "registerroadarguments": "(optioneel) naam van de weg> <coördinaten van de locatie als X Y Z met een spatie tussen argumenten",
