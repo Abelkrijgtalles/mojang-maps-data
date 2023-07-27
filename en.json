@@ -8,7 +8,7 @@
   "thengoto": "%s then go to\n",
   "noarguments": "You did not run the command with arguments. Please run it again with the %s arguments.",
   "example": "Example:",
-  "tomanyarguments": "You have run the command with too many arguments. Please run it again with the %s arguments.",
+  "toomanyarguments": "You have run the command with too many arguments. Please run it again with the %s arguments.",
   "invalidcoordinates": "Invalid coordinates. Please run it again with the right coordinates.",
   "finallygoto": "Then finally go to X: %s Z: %s.",
   "registerroadarguments": "(optional) name of road> <coordinates of the locations as X Y Z with a space between arguments",
