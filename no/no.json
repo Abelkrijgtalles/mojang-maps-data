@@ -1,4 +1,6 @@
 {
+  "createconfigfailed": "Could not create the configuration file %s.",
+  "saveconfigfailed": "Could not save the configuration file %s.",
   "nolocationroad": "There aren't any locations in this road.",
   "unnamedroad": "Unnamed Road",
   "locationalreadyregistered": "This location is already registered.",
@@ -13,5 +15,6 @@
   "finallygoto": "Then finally go to X: %s Z: %s.",
   "registerroadarguments": "(optional) name of road> <coordinates of the locations as X Y Z with a space between arguments",
   "registeredroad": "Registered a new road.",
+  "loadconfigfailed": "Could not load config.",
   "notonaroad": "You are currently not on any street."
 }
