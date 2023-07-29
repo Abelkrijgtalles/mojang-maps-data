@@ -1,11 +1,11 @@
 # Mojang Maps Data
-Data for [Mojang Maps](https://github.com/Abelkrijgtalles/mojang-maps)
-Any issue should be reported to [the Mojang Maps GitHub issues page](https://github.com/Abelkrijgtalles/mojang-maps/issues)
+Data for [Mojang Maps](https://github.com/Abelkrijgtalles/mojang-maps).
+Any issue should be reported to [the Mojang Maps GitHub issues page](https://github.com/Abelkrijgtalles/mojang-maps/issues).
 
 Links:
 - https://github.com/Abelkrijgtalles/mojang-maps, The github page Mojang Maps
 - https://crowdin.com/project/mojang-maps, The website for translations.
-For more links, check the github page of Mojang Maps
+For more links, check the github page of Mojang Maps.
 
 # The following codes can be used as language:
 af
