@@ -1,6 +1,11 @@
 # mojang-maps-data
 Data for Mojang Maps
 
+Links:
+- https://github.com/Abelkrijgtalles/mojang-maps, The github page Mojang Maps
+- https://crowdin.com/project/mojang-maps, The website for translations.
+For more links, check the github page of Mojang Maps
+
 # The following codes can be used as language:
 af
 Afrikaans
