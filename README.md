@@ -72,7 +72,7 @@ ru
 Russian
 
 sr
-Serbian (Cyrillic
+Serbian (Cyrillic)
 
 sv-SE
 Swedish
