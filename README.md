@@ -1,5 +1,6 @@
-# mojang-maps-data
-Data for Mojang Maps
+# Mojang Maps Data
+Data for [Mojang Maps](https://github.com/Abelkrijgtalles/mojang-maps)
+Any issue should be reported to [the Mojang Maps GitHub issues page](https://github.com/Abelkrijgtalles/mojang-maps/issues)
 
 Links:
 - https://github.com/Abelkrijgtalles/mojang-maps, The github page Mojang Maps
