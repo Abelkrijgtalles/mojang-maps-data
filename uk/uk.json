@@ -7,7 +7,7 @@
   "blocksprediction": "%s\nThis will take %s blocks",
   "thengoto": "%s then go to\n",
   "noarguments": "You did not run the command with arguments. Please run it again with the %s arguments.",
-  "example": "Example: ",
+  "example": "Example: %s",
   "toomanyarguments": "You have run the command with too many arguments. Please run it again with the %s arguments.",
   "invalidcoordinates": "Invalid coordinates. Please run it again with the right coordinates.",
   "finallygoto": "Then finally go to X: %s Z: %s.",
