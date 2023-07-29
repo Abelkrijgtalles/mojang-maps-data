@@ -7,7 +7,7 @@
   "blocksprediction": "%s\nDit is %s blocks",
   "thengoto": "%s ga dan naar\n",
   "noarguments": "Je hebt geen argumenten gegeven. Run het alsjeblieft opnieuw met %s argumenten.",
-  "example": "Example: %s",
+  "example": "Voorbeeld: %s",
   "toomanyarguments": "Je hebt te veel argumenten gegeven. Run alsjeblieft de command opnieuw met %s argumenten.",
   "invalidcoordinates": "Geen goede coördinaten. Run het opnieuw met goede coördinaten.",
   "finallygoto": "Ga uiteindelijk naar X: %s Z: %s.",
