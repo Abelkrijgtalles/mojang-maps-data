@@ -14,5 +14,7 @@
   "registerroadarguments": "(facultatif) nom de la route > <coordonnées des emplacements sous X Y Z avec espace entre les arguments",
   "registeredroad": "Vous avez enregistré une nouvelle route.",
   "notonaroad": "Vous n'êtes actuellement dans aucune rue.",
-  "noargumentsother": "Vous n'avez pas exécuté la commande avec des arguments. Veuillez l'exécuter à nouveau avec les arguments %s."
+  "noargumentsother": "Vous n'avez pas exécuté la commande avec des arguments. Veuillez l'exécuter à nouveau avec les arguments %s.",
+  "load": "Loading, this could take some time.",
+  "pathnotfound": "Couldn't find a path."
 }
