@@ -16,5 +16,6 @@
   "notonaroad": "You are currently not on any street.",
   "noargumentsother": "You did not run the command with arguments. Please run it again with the right arguments.",
   "load": "Loading, this could take some time.",
-  "pathnotfound": "Couldn't find a path."
+  "pathnotfound": "Couldn't find a path.",
+  "outdated": "Mojang Maps is outdated, please download the newest version at: %s"
 }
