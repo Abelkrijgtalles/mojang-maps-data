@@ -16,5 +16,6 @@
   "notonaroad": "Je bent momenteel niet op een straat.",
   "noargumentsother": "Je hebt geen argumenten gegeven. Run het alsjeblieft opnieuw met de goede argumenten.",
   "load": "Aan het laden, dit kan eventjes duren.",
-  "pathnotfound": "Kon geen pad vinden."
+  "pathnotfound": "Kon geen pad vinden.",
+  "outdated": "Mojang Maps is outdated, please download the newest version at: %s"
 }
