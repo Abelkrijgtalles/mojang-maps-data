@@ -14,5 +14,7 @@
   "registerroadarguments": "(optioneel) naam van de weg> <coördinaten van de locatie als X Y Z met een spatie tussen argumenten",
   "registeredroad": "Een nieuwe weg geregistreerd.",
   "notonaroad": "Je bent momenteel niet op een straat.",
-  "noargumentsother": "Je hebt geen argumenten gegeven. Run het alsjeblieft opnieuw met de goede argumenten."
+  "noargumentsother": "Je hebt geen argumenten gegeven. Run het alsjeblieft opnieuw met de goede argumenten.",
+  "load": "Aan het laden, dit kan eventjes duren.",
+  "pathnotfound": "Kon geen pad vinden."
 }
