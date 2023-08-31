@@ -18,5 +18,6 @@
   "load": "Aan het laden, dit kan eventjes duren.",
   "pathnotfound": "Kon geen pad vinden.",
   "outdated": "Er is een nieuwe versie van Mojang Maps beschikbaar. Deze versie kan je hier downloaden: %s.",
-  "calcins": "Berekend in %s seconden."
+  "calcins": "Berekend in %s seconden.",
+  "navigation": "Navigation"
 }
