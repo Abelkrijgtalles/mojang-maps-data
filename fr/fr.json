@@ -18,5 +18,6 @@
   "load": "Loading, this could take some time.",
   "pathnotfound": "Couldn't find a path.",
   "outdated": "Mojang Maps is outdated, please download the newest version at: %s.",
-  "calcins": "Calculated in %s seconds."
+  "calcins": "Calculated in %s seconds.",
+  "navigation": "Navigation"
 }
