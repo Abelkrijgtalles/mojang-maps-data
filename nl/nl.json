@@ -17,5 +17,6 @@
   "noargumentsother": "Je hebt geen argumenten gegeven. Run het alsjeblieft opnieuw met de goede argumenten.",
   "load": "Aan het laden, dit kan eventjes duren.",
   "pathnotfound": "Kon geen pad vinden.",
-  "outdated": "Er is een nieuwe versie van Mojang Maps beschikbaar. Die kan je hier downloaden: %s"
+  "outdated": "Mojang Maps is outdated, please download the newest version at: %s.",
+  "calcins": "Calculated in %s seconds."
 }
