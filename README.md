@@ -56,6 +56,9 @@ Japanese
 ko
 Korean
 
+la-LA
+Latin
+
 nl
 Dutch
 
