@@ -19,5 +19,6 @@
   "pathnotfound": "Nem található az út.",
   "outdated": "A Mojang Maps elavult, kérlek töltsd le a legújabb verziót innen: %s.",
   "calcins": "Kiszámítva %s másodperc alatt.",
-  "navigation": "Navigáció"
+  "navigation": "Navigáció",
+  "nonodesfound": "No locations found. Try registering a road first."
 }

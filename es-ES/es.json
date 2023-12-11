@@ -19,5 +19,6 @@
   "pathnotfound": "No se pudo encontrar un camino.",
   "outdated": "Mojang Maps está desactualizado, por favor descarga la versión más reciente en: %s.",
   "calcins": "Calculado en %s segundos.",
-  "navigation": "Navegación"
+  "navigation": "Navegación",
+  "nonodesfound": "No locations found. Try registering a road first."
 }
