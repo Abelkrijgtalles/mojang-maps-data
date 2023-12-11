@@ -20,5 +20,5 @@
   "outdated": "Mojang Maps is outdated, please download the newest version at: %s.",
   "calcins": "Calculated in %s seconds.",
   "navigation": "Navigation",
-  "nonodesfound": "No nodes found. Try creating a road first."
+  "nonodesfound": "No locations found. Try creating a road first."
 }
