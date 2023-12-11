@@ -19,5 +19,6 @@
   "pathnotfound": "Kon geen pad vinden.",
   "outdated": "Er is een nieuwe versie van Mojang Maps beschikbaar. Deze versie kan je hier downloaden: %s.",
   "calcins": "Berekend in %s seconden.",
-  "navigation": "Navigatie"
+  "navigation": "Navigatie",
+  "nonodesfound": "No locations found. Try registering a road first."
 }
