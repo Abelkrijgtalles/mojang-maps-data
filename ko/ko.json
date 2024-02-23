@@ -1,6 +1,6 @@
 {
-  "nolocationroad": "There aren't any locations in this road.",
-  "unnamedroad": "Unnamed Road",
+  "nolocationroad": "이 길에는 어떤 장소도 없습니다.",
+  "unnamedroad": "이름 없는 길",
   "locationalreadyregistered": "This location is already registered.",
   "registerlocation": "Registered a location at X: %s, Z: %s.",
   "currentlyon": "Currently on: %s.",
