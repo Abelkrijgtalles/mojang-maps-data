@@ -1,5 +1,5 @@
 {
-  "nolocationroad": "There aren't any locations in this road.",
+  "nolocationroad": "На цій дорозі немає жодного місця.",
   "unnamedroad": "Unnamed Road",
   "locationalreadyregistered": "This location is already registered.",
   "registerlocation": "Registered a location at X: %s, Z: %s.",
@@ -18,7 +18,7 @@
   "load": "Loading, this could take some time.",
   "pathnotfound": "Couldn't find a path.",
   "outdated": "Mojang Maps is outdated, please download the newest version at: %s.",
-  "calcins": "Calculated in %s seconds.",
+  "calcins": "Розраховується за %s секунд.",
   "navigation": "Navigation",
   "nonodesfound": "No locations found. Try registering a road first."
 }
